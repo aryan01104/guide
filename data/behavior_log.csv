@@ -1,0 +1,13 @@
+timestamp,event,details
+2025-05-25T21:25:30.642588,app_switch,Code 
+2025-05-25T21:25:50.753397,app_usage,Code |20.2
+2025-05-25T21:25:50.753965,app_switch,Google Chrome 
+2025-05-25T21:26:27.968075,app_usage,Google Chrome |37.21
+2025-05-25T21:26:27.968898,app_switch,Code 
+2025-05-25T21:35:11.861396,app_switch,Code 
+2025-05-25T21:35:27.243547,browser_tab,"Bond crisis looming? GOP abandons DOGE, Google disrupts Search with AI, OpenAI buys Jony Ive's IO - YouTube|https://www.youtube.com/watch?v=GEZWyC-jJa4&ab_channel=All-InPodcast"
+2025-05-25T21:35:27.243743,app_usage,Code |15.11
+2025-05-25T21:35:27.243773,app_switch,Google Chrome 
+2025-05-25T21:35:32.463265,browser_tab,"Bond crisis looming? GOP abandons DOGE, Google disrupts Search with AI, OpenAI buys Jony Ive's IO - YouTube|https://www.youtube.com/watch?v=GEZWyC-jJa4&ab_channel=All-InPodcast"
+2025-05-25T21:35:37.465795,app_usage,Google Chrome |10.59
+2025-05-25T21:35:37.465898,app_switch,Code 
