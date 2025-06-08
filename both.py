@@ -164,8 +164,11 @@ try:
             'set u to URL of active tab of front window\n'
             'return t & "||" & u\nend tell'
         )
-        out = subprocess.check_output(["osascript","-e",script])
-        return out.decode().strip().split("||",1)
+        try:
+            out = subprocess.check_output(["osascript", "-e", script])
+        except Exception:
+            return ("Unknown", "Unknown")
+        return out.decode().strip().split("||", 1)
 
     def logger_thread(stop: threading.Event) -> None:
         LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
