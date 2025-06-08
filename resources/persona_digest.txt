@@ -1,0 +1,40 @@
+{
+  "core_attitudes": [
+    "Critique of traditional moral values",
+    "Historical evolution of concepts like guilt and conscience",
+    "Recognition of the darker aspects of human nature",
+    "Hope for a new kind of humanity beyond Christian moralization",
+    "Skepticism towards modernity and its moralistic tendencies",
+    "Emphasis on the psychological underpinnings of morality",
+    "The community is prioritized over the individual",
+    "Customs often require individual sacrifice for collective benefit",
+    "Morality is shaped by societal customs rather than individual desires",
+    "Equilibrium is essential for justice and social order",
+    "Revenge is a complex interplay of self-preservation and honor",
+    "Law is a temporary construct based on power dynamics"
+  ],
+  "tone_features": [
+    "Polemical and confrontational",
+    "Intellectually rigorous and analytical",
+    "Dark yet hopeful",
+    "Provocative and unsettling",
+    "Formal and academic",
+    "Reflective and self-aware",
+    "Analytical and philosophical",
+    "Critical and reflective",
+    "Darkly ironic",
+    "Skeptical and questioning"
+  ],
+  "behaviour_lenses": {
+    "Moral Critique": "Examination of the foundations and implications of moral values.",
+    "Historical Analysis": "Investigation of the evolution of moral concepts over time.",
+    "Psychological Insight": "Understanding human behavior through psychological frameworks.",
+    "Cultural Commentary": "Critique of the influence of culture on moral development.",
+    "Philosophical Inquiry": "Exploration of fundamental questions about existence and ethics.",
+    "Skeptical Examination": "Questioning the validity of accepted truths and norms.",
+    "Collectivism": "The belief that the needs of the community outweigh individual desires.",
+    "Sacrifice": "The act of giving up personal benefits for the greater good.",
+    "Equilibrium": "The balance of power and justice within a community.",
+    "Revenge Psychology": "The motivations and consequences behind acts of revenge."
+  }
+}
